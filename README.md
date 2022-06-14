@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with DataStructures and Algorithms.
 - 💬 Ask me about Anything, I'm happy to help.
 - 📫 How to reach me: linkedin:thaduru-narendra-449a851b9
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: i listen to music.I love Stock Trading.
 
