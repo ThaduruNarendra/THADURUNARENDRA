@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Thaduru Narendra
+### Hey  👋 i'm Thaduru Narendra
 
 
 - 🔭 I’m currently working on Java FullStack Development course
